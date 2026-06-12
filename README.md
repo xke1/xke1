@@ -2,7 +2,7 @@
 
 **EN** | [中文在下方](#中文)
 
-**AI-driven independent quant researcher.** I run many parallel dry-run strategies on crypto derivatives 24/7, iterate by finding flaws in *reality* rather than in backtests, and publish occasional research notes on LinkedIn. BSc Mathematics @ King's College London → MSc Strategic Marketing @ Imperial College Business School.
+**AI-driven independent quant researcher.** I run many parallel dry-run strategies on crypto derivatives 24/7, iterate by finding flaws in *reality* rather than in backtests, and publish occasional research notes on LinkedIn. BSc Mathematics with Management and Finance @ King's College London → MSc Strategic Marketing @ Imperial College Business School.
 
 Obsessed with derivatives. I scrape everything exchanges expose — open interest, long/short ratios, top-trader positioning, taker flow, funding, premium index — because price-only alpha is a crowded room. Currently learning to build **options strategies** (Deribit) as the next leg.
 
@@ -32,7 +32,7 @@ Community: [@whiteswanquant](https://x.com/whiteswanquant) · 中英双语 · Op
 <a name="中文"></a>
 ## 中文
 
-**AI 驱动的独立量化研究者。** 多个加密衍生品策略并行 dry-run 7×24 跑着,迭代方式是从**现实**里找缺陷而不是从回测里,研究心得不定期发在 LinkedIn。本科数学 @ 伦敦国王学院(KCL)→ 硕士战略营销 @ 帝国理工商学院。
+**AI 驱动的独立量化研究者。** 多个加密衍生品策略并行 dry-run 7×24 跑着,迭代方式是从**现实**里找缺陷而不是从回测里,研究心得不定期发在 LinkedIn。本科 Mathematics with Management and Finance @ 伦敦国王学院(KCL)→ 硕士战略营销 @ 帝国理工商学院。
 
 对衍生品痴迷。交易所暴露什么我就爬什么 — 持仓量、多空比、大户持仓、taker 流量、资金费率、溢价指数 — 因为纯价格 alpha 是个拥挤的房间。正在学习搭建 **期权交易策略**(Deribit)作为下一条腿。
 
