@@ -10,6 +10,8 @@ The repo ships the whole research provenance: cross-sectional atom library, exha
 
 > Alpha decays. Process compounds. I publish both.
 
+**[iter7y-pipeline-2026-05](https://github.com/xke1/iter7y-pipeline-2026-05)** — the quality-first sibling: 16 hand-curated low-frequency signals, walk-forward Sortino mining, and a deploy step that embeds the research engine *verbatim* into the live strategy with bit-level `--verify`. Two books, two philosophies: smooth-everywhere vs. picky-and-precise.
+
 ### 🧰 Older work
 - [Quant-Atoms-and-Mining-Procedures](https://github.com/xke1/Quant-Atoms-and-Mining-Procedures) — 755-atom time-series library + non-overfitting mining discipline
 - [StrategiesRepo](https://github.com/xke1/StrategiesRepo) — backtested → dry-run → lived strategies
